@@ -11,12 +11,12 @@
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
     <?php $this->header(); ?>
     <link rel="stylesheet" href="<?php $this->options->themeUrl('/base/style.css'); ?>">
-    <link href="https://gfonts.ctfile.com/css2?family=Inter:wght@400;700&display=swap"
+    <link href="https://imgs.luckynwa.top/profile/blog/jscss/brave.css"
           rel="stylesheet">
-    <link href="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/4.6.1/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-    <script src="https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.min.js"
+    <link href="https://imgs.luckynwa.top/profile/blog/jscss/bootstrap.min.css" type="text/css" rel="stylesheet" />
+    <script src="https://imgs.luckynwa.top/profile/blog/jscss/jquery.min.js"
             type="application/javascript"></script>
-    <script src="https://lf6-cdn-tos.bytecdntp.com/cdn/expire-1-M/bootstrap/4.6.1/js/bootstrap.min.js" type="application/javascript"></script>
+    <script src="https://imgs.luckynwa.top/profile/blog/jscss/bootstrap.bundle.min.js" type="application/javascript"></script>
     <?php $this->options->头部自定义(); ?>
 </head>
 <style>
